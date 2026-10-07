@@ -236,4 +236,4 @@ This repository serves as the official landing page for Chrome Frame. The softwa
 **Get the most recent version of Chrome Frame today!**
 
 ---
-**Last updated:** 2026-10-07 01:16:48 UTC
+**Last updated:** 2026-10-07 08:20:21 UTC
